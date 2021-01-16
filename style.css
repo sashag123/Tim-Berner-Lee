@@ -91,3 +91,14 @@ p{
 .links:hover{
     background-color: cornflowerblue;
 }
+
+a {
+    text-decoration: none;
+    
+}
+.article:hover{
+    color: aqua;
+}
+html{
+    scroll-behavior: smooth;
+}
